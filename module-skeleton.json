@@ -1,0 +1,15 @@
+{
+  "repository": "module-control-panel-web-hosting-nuxt",
+  "capabilityKey": "liberusoftware/module-control-panel-web-hosting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-control-panel-web-hosting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/control-panel/nextjs/web-hosting.md",
+  "presentationPlan": "projects/control-panel/nuxt/web-hosting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "control-panel"
+  ]
+}
